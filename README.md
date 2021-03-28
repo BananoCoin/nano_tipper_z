@@ -6,7 +6,7 @@ It is a fork and modification of the [Nano](https://nano.org) reddit tipbot crea
 ### To get started with Banano Tipper, either:
 A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=banano_tipbot&subject=command&message=create) to /u/banano_tipbot with 'create' or 'register' in the message body. You will receive a Banano address, to which you can add Banano\*.
 \-or-
-B) **Receive a Banano tip** from a fellow redditor, and you will automatically have an account made! be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=banano_tipbot&subject=command&message=create) to /u/banano_tipbot.
+B) **Receive a Banano tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=banano_tipbot&subject=command&message=create) to /u/banano_tipbot.
 Once you have funds in your account, you can tip other redditors, or send to any banano address via PM to /u/banano_tipbot.
 # Comment Replies:
 Banano Tipper is intended for tipping on reddit posts and replies.
@@ -15,7 +15,7 @@ On supported subreddits, you can send a tip like this:
 
     !ban 1 This is great!
 
-This will tip a redditor 1 Banano. !bam <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
+This will tip a redditor 1 Banano. !ban <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
 
     This is great! !ban 1
 
@@ -27,7 +27,7 @@ or
 
     This is great! /u/banano_tipbot 1
 
-If the subreddit is a friendly subreddi, the bot will repsond with a message. If the subreddit is not friendly, a PM will be sent to both the sender and the recipient.
+If the subreddit is a friendly subreddit, the bot will repsond with a message. If the subreddit is not friendly, a PM will be sent to both the sender and the recipient.
     
 # Private Messages
 
@@ -52,13 +52,13 @@ There are many other commands.
 
 ```
 'balance' or 'address' - Retrieve your account balance.
-'create' - Create a new account if one does not exist
-'help' - Get this help message
+'create' - Create a new account if one does not exist.
+'help' - Get this help message.
 'history <optional: number of records>' - Retrieves tipbot commands. Default 10, maximum is 50.
-'send <amount or all, optional: Currency> <user/address>' - Send Banano to a reddit user or an address
-'silence <yes/no>' - (default 'no') Prevents the bot from sending you tip notifications or tagging in posts
-'subreddit <subreddit> <'activate'/'deactivate'> <option>' - Subreddit Moderator Controls - Enabled Tipping on Your Sub (`silent`, `minimal`, `full`)
-'withdraw <amount or all> <user/address>' - Same as send
+'send <amount or all, optional: Currency> <user/address>' - Send Banano to a reddit user or an address.
+'silence <yes/no>' - (default 'no') Prevents the bot from sending you tip notifications or tagging in posts.
+'subreddit <subreddit> <'activate'/'deactivate'> <option>' - Subreddit Moderator Controls - Enabled Tipping on Your Sub (`silent`, `minimal`, `full`).
+'withdraw <amount or all> <user/address>' - Same as send.
 'opt-out' - Disables your account.
 'opt-in' - Re-enables your account.
 ```
