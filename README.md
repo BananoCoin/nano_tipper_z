@@ -6,7 +6,7 @@ It is a fork and modification of the [Nano](https://nano.org) reddit tipbot crea
 ### To get started with Banano Tipper, either:
 A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=banano_tipbot&subject=command&message=create) to /u/banano_tipbot with 'create' or 'register' in the message body. You will receive a Banano address, to which you can add Banano\*.
 \-or-
-B) **Receive a Banano tip** from a fellow redditor, and you will automatically have an account made! be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=banano_tipbot&subject=command&message=create) to /u/banano_tipbot.
+B) **Receive a Banano tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=banano_tipbot&subject=command&message=create) to /u/banano_tipbot.
 Once you have funds in your account, you can tip other redditors, or send to any banano address via PM to /u/banano_tipbot.
 # Comment Replies:
 Banano Tipper is intended for tipping on reddit posts and replies.
@@ -27,7 +27,7 @@ or
 
     This is great! /u/banano_tipbot 1
 
-If the subreddit is a friendly subreddi, the bot will repsond with a message. If the subreddit is not friendly, a PM will be sent to both the sender and the recipient.
+If the subreddit is a friendly subreddit, the bot will repsond with a message. If the subreddit is not friendly, a PM will be sent to both the sender and the recipient.
     
 # Private Messages
 
