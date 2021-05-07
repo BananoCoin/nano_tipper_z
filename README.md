@@ -15,7 +15,7 @@ On supported subreddits, you can send a tip like this:
 
     !ban 1 This is great!
 
-This will tip a redditor 1 Banano. !bam <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
+This will tip a redditor 1 Banano. !ban <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
 
     This is great! !ban 1
 
